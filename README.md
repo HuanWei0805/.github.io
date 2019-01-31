@@ -8,10 +8,10 @@ I used theme template adapted from start bootstrap website. source code [here](h
  Using HTML,CSS and Javascript to build a homepage, and introduct myself to the teahcer,TA and classmates.
  
  ## TECHNOLOGY USED
- *HTML
- *CSS
- *JAVASCRIPT
- *BOOTSTRAP
+ * HTML
+ * CSS
+ * JAVASCRIPT
+ * BOOTSTRAP
  
  ## HOW TO RUN IT
  To run the project you just have to go to the following URL:  , or you can clone the project and deploy it locally.
