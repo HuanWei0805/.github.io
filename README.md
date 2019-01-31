@@ -20,7 +20,7 @@ I used theme template adapted from start bootstrap website. source code [here](h
  Huan Wei
  
 ## SCREEN SHOT
-![image](.github.io/Screen Shot .png)
+![image](https://github.com/HuanWei0805/.github.io/blob/master/Screen%20Shot%20.png)
 
 ## LICENSE
 
