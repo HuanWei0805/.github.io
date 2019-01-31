@@ -14,7 +14,7 @@ I used theme template adapted from start bootstrap website. source code [here](h
  * BOOTSTRAP
  
  ## HOW TO RUN IT
- To run the project you just have to go to my [homepage](https://huanwei0805.github.io/.github.io/） , or you can clone the project and deploy it locally.
+ To run the project you just have to go to my [homepage](https://huanwei0805.github.io/.github.io/) , or you can clone the project and deploy it locally.
  
  ## AUTHOR
  Huan Wei
