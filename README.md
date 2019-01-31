@@ -1,2 +1,27 @@
-# .github.io
-This is my personal profile, also the project 1 of NEU WebDev 
+# HUAN'S PERSONAL PROFILE
+## OVERVIEW
+
+This is my personal profile, also the project 1 of NEU WebDev course.
+I used theme template adapted from start bootstrap website. source code [here](https://github.com/BlackrockDigital/startbootstrap-stylish-portfolio)
+
+## OBJECTIVE
+ Using HTML,CSS and Javascript to build a homepage, and introduct myself to the teahcer,TA and classmates.
+ 
+ ## TECHNOLOGY USED
+ *HTML
+ *CSS
+ *JAVASCRIPT
+ *BOOTSTRAP
+ 
+ ## HOW TO RUN IT
+ To run the project you just have to go to the following URL:  , or you can clone the project and deploy it locally.
+ 
+ ## AUTHOR
+ Huan Wei
+ 
+## SCREEN SHOT
+
+## LICENSE
+
+This project is licensed under the MIT License
+ 
